@@ -1,4 +1,4 @@
-FROM resin/%%RESIN_MACHINE_NAME%%-debian
+FROM resin/artik530-debian
 
 ENV INITSYSTEM on
 
